@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/api/","tags":["terms"]}
+{"dg-publish":true,"permalink":"/terms/api/","tags":["terms"],"noteIcon":"","created":"2024-01-01T15:28:41.025+09:00","updated":"2024-01-26T22:04:11.050+09:00"}
 ---
 
 
