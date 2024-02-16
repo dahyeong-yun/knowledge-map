@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/terms/rest/","tags":["terms"]}
+{"dg-publish":true,"permalink":"/terms/rest/","tags":["terms"],"noteIcon":"","created":"2024-01-01T15:28:41.025+09:00","updated":"2024-01-28T19:09:11.388+09:00"}
 ---
 
 
@@ -65,3 +65,8 @@ http기반 api의 설계 원칙이다.
 - 이에 대한 판단의 척도 하나가
     - 리차드슨 성숙도 모델
         - [https://johngrib.github.io/wiki/richardson-maturity-model/](https://johngrib.github.io/wiki/richardson-maturity-model/)
+
+
+
+참고
+- [Day1, 2-2.  그런 REST API로 괜찮은가 - YouTube](https://www.youtube.com/watch?v=RP_f5dMoHFc&ab_channel=NAVERD2)
