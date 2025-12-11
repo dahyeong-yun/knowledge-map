@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-path":"\"/\"","permalink":"///","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-26T22:06:18.423+09:00","updated":"2025-12-11T20:45:00.696+09:00"}
+{"dg-home":true,"dg-publish":true,"dg-path":"home","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-26T22:06:18.423+09:00","updated":"2025-12-11T20:46:09.149+09:00"}
 ---
 
 Test Home
