@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/20-publish/01-digital-garden/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-26T22:06:18.423+09:00","updated":"2025-12-10T22:26:39.388+09:00"}
+{"dg-home":true,"dg-publish":true,"dg-path":"\"/\"","permalink":"///","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-26T22:06:18.423+09:00","updated":"2025-12-11T20:45:00.696+09:00"}
 ---
 
 Test Home
