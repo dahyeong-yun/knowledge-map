@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/terms/api","permalink":"//terms/api/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-01T15:28:41.025+09:00","updated":"2025-12-11T22:19:26.059+09:00"}
+{"dg-publish":true,"dg-path":"terms/api","permalink":"/terms/api/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-01T15:28:41.025+09:00","updated":"2025-12-11T22:21:06.959+09:00"}
 ---
 
 
