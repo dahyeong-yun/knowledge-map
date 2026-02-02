@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["terms"],"permalink":"/02-resources/01-dev/20-publish/01-digital-garden/terms/rest/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-01T15:28:41.025+09:00","updated":"2025-09-30T13:48:54.042+09:00"}
+{"dg-publish":true,"dg-path":"terms/rest","permalink":"/terms/rest/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-01T15:28:41.025+09:00","updated":"2026-02-02T09:13:04.811+09:00"}
 ---
 
 
