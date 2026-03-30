@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"terms/api","note-type":null,"permalink":"/terms/api/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-01T15:28:41.025+09:00","updated":"2026-03-30T13:17:30.513+09:00","dg-note-properties":{"note-type":null}}
+{"dg-publish":true,"dg-path":"terms/api","note-type":null,"permalink":"/terms/api/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-01-01T15:28:41.025+09:00","updated":"2026-03-30T13:37:19.058+09:00","dg-note-properties":{"note-type":null}}
 ---
-
 
 # API(Application Programming Interface)
  - API는 Application Programming Interface의 줄임말이다. 각 단어의 뜻을 이해한다면 어렵지 않게 뜻을 유추할 수 있다. 앱을 개발하는 프로그래밍 인터페이스라는 것이다. 다만 인터페이스라는 것 자체의 뜻이 
