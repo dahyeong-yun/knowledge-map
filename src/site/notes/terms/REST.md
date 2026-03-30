@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/terms/rest","permalink":"//terms/rest/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"terms/rest","permalink":"/terms/rest/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

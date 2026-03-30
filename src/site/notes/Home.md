@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-path":"/home","dg-enable-search":"false","permalink":"//home/","tags":["gardenEntry"],"dgEnableSearch":"false","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-home":true,"dg-publish":true,"dg-path":"home","dg-enable-search":"false","permalink":"/home/","tags":["gardenEntry"],"dgEnableSearch":"false","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## 문서를 찾는 방법

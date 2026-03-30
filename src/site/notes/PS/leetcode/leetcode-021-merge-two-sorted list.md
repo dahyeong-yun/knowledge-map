@@ -1,5 +1,5 @@
 ---
-{"dg-path":"/ps/leetcode/merge-two-sorted-list","dg-publish":true,"permalink":"//ps/leetcode/merge-two-sorted-list/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-path":"ps/leetcode/merge-two-sorted-list","dg-publish":true,"permalink":"/ps/leetcode/merge-two-sorted-list/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## 개요

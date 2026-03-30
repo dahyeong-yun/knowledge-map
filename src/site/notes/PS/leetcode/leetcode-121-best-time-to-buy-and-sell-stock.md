@@ -1,5 +1,5 @@
 ---
-{"dg-path":"/ps/leetcode/best-time-to-buy-and-sell-stock","dg-publish":true,"permalink":"//ps/leetcode/best-time-to-buy-and-sell-stock/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-path":"ps/leetcode/best-time-to-buy-and-sell-stock","dg-publish":true,"permalink":"/ps/leetcode/best-time-to-buy-and-sell-stock/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## 개요

@@ -1,5 +1,5 @@
 ---
-{"dg-path":"/ps/leetcode/3-sum","dg-publish":true,"permalink":"//ps/leetcode/3-sum/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-path":"ps/leetcode/3-sum","dg-publish":true,"permalink":"/ps/leetcode/3-sum/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## 개요

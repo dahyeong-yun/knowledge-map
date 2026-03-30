@@ -1,5 +1,5 @@
 ---
-{"dg-path":"/ps/leetcode/palindrome","dg-publish":true,"permalink":"//ps/leetcode/palindrome/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-path":"ps/leetcode/palindrome","dg-publish":true,"permalink":"/ps/leetcode/palindrome/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # 개요

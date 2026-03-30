@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/terms/api","note-type":null,"permalink":"//terms/api/","dgPassFrontmatter":true,"dg-note-properties":{"note-type":null}}
+{"dg-publish":true,"dg-path":"terms/api","note-type":null,"permalink":"/terms/api/","dgPassFrontmatter":true,"dg-note-properties":{"note-type":null}}
 ---
 
 
