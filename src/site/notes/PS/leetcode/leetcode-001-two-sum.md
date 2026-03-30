@@ -1,5 +1,5 @@
 ---
-{"dg-path":"ps/leetcode/two-sum","dg-publish":true,"permalink":"/ps/leetcode/two-sum/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-path":"ps/leetcode/two-sum","dg-publish":true,"permalink":"/ps/leetcode/two-sum/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T19:05:19.897+09:00","updated":"2026-03-30T13:17:37.426+09:00","dg-note-properties":{}}
 ---
 
 ## 개요

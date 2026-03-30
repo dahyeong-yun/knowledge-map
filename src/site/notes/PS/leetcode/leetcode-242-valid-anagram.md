@@ -1,5 +1,5 @@
 ---
-{"dg-path":"ps/leetcode/valid-anagram","dg-publish":true,"permalink":"/ps/leetcode/valid-anagram/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-path":"ps/leetcode/valid-anagram","dg-publish":true,"permalink":"/ps/leetcode/valid-anagram/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-03T21:38:35.359+09:00","updated":"2026-03-30T13:17:33.726+09:00","dg-note-properties":{}}
 ---
 
 ## 개요
